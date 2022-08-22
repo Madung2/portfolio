@@ -21,7 +21,7 @@
 > 
 > 개발 기간:2022.07.07 ~ 2022.08.15
 > 
-> 기술 스택 :
+> 기술 스택 : 
 > <div style='flex'>
 > <img src="https://img.shields.io/badge/Python3.-3776AB?style=for-the-badge&logo=Python&logoColor=white" >
 >   <img  src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
