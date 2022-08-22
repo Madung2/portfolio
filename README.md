@@ -92,8 +92,8 @@
 
 <hr>
 
-### 5. citistagram
-> [인스타그램 클론코딩 프로젝트](https://github.com/Madung2/citistagram)
+### 5. [citistagram](https://github.com/Madung2/citistagram)
+> 인스타그램 클론코딩 프로젝트
 > 
 > 개발 기간:2022.05.03 ~ 2022.05.10
 > 
