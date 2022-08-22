@@ -23,7 +23,7 @@
 > 
 > 기술 스택 : 
 > <div style='flex'>
-> <img src="https://img.shields.io/badge/Python3.-3776AB?style=for-the-badge&logo=Python&logoColor=white" >
+> <img src="https://img.shields.io/badge/Python3.10.5-3776AB?style=for-the-badge&logo=Python&logoColor=white" >
 >   <img  src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
 >   <img  style='float:left' src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white">
 >	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
