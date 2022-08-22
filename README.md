@@ -40,7 +40,7 @@
 
 <hr>
 
-### 2. You know what I'm sayin'
+### 2. [You know what I'm sayin'](https://github.com/Madung2/Unamsang_back)
 > 텍스트 to 이미지 AI 서비스
 > 
 > 개발 기간:2022.06.28 ~ 2022.07.05
@@ -54,11 +54,11 @@
 >      <img src="https://img.shields.io/badge/MySQL-4169E1?style=for-the-badge&logo=MySQL&logoColor=white">
 >        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
 >        
-> 프로젝트 상세 설명 참고
+> [프로젝트 상세 설명](https://github.com/Madung2/Unamsang_back)
 
 <hr>
 
-### 3. 혼자서도 잘해요리
+### 3. [혼자서도 잘해요리](https://github.com/Madung2/cook_alone)
 > 만개의 레시피 크롤링 요리 레시피 사이트
 > 
 > 개발 기간:2022.06.02 ~ 2022.06.13
@@ -71,11 +71,11 @@
 >      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 >      <img src="https://img.shields.io/badge/MySQL-4169E1?style=for-the-badge&logo=MySQL&logoColor=white">
 > 
-> 프로젝트 상세 설명 참고
+> [프로젝트 상세 설명](https://github.com/Madung2/cook_alone) 참고
 
 <hr>
 
-### 4. AI 카멜레온
+### 4. [AI 카멜레온](https://github.com/Madung2/ai_chameleon)
 > 유저 이미지를 세그멘테이션으로 변경 gif로 소장할 수 있도록 해주는 서비스
 > 
 > 개발 기간:2022.05.18 ~ 2022.05.24
@@ -88,12 +88,12 @@
 >    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 >    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
 >
-> 프로젝트 상세 설명 참고
+> [프로젝트 상세 설명](https://github.com/Madung2/ai_chameleon) 참고
 
 <hr>
 
 ### 5. citistagram
-> 인스타그램 클론코딩 프로젝트
+> [인스타그램 클론코딩 프로젝트](https://github.com/Madung2/citistagram)
 > 
 > 개발 기간:2022.05.03 ~ 2022.05.10
 > 
@@ -106,6 +106,6 @@
 >    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 >  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
 >
-> 프로젝트 상세 설명 참고
+> [프로젝트 상세 설명](https://github.com/Madung2/citistagram) 참고
 
 
