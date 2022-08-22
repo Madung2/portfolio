@@ -2,10 +2,8 @@
 ### Never Stopping Backend Web Developer
 
 
-
-
 ## 📌Intro
-
+처음 제 손으로 로직을 구현한 순간의 짜릿함을 기억하고, 언제나 달리는 신입 백엔드 개발자입니다.
 
 ## 📌Contact
 
