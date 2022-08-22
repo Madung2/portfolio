@@ -36,7 +36,7 @@
 > 	<img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white">
 >
 >
-> 프로젝트 상세 설명 참고
+> [프로젝트 상세 설명](https://github.com/Madung2/Petrasche_back) 참고
 
 <hr>
 
