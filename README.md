@@ -54,7 +54,7 @@
 > 	<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white">
 > 	<img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white">
 >
->담당 기능:
+>담당 기능:지역 기반 산책 매칭 기능, 좋아요 기능, Oauth 사용한 카카오 소셜 로그인, 회원가입&로그인(JWT Token사용), DRF페이지네이터 모듈을 사용한 페이지네이션 기능, 도커 EC2 RDS 사용한 배포
 >
 > [프로젝트 상세 설명](https://github.com/Madung2/Petrasche_back) 참고
 
